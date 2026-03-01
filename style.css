@@ -10,8 +10,14 @@ p{
     background-color: cornflowerblue;
     color: azure;
     text-align: center;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }
 .test{
     background-color: rgb(155, 186, 244);
     border-top: none;
+}
+.cent{
+    text-align: center;
 }
