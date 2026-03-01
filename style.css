@@ -1,3 +1,17 @@
-body {
-  background-color:yellow; /* or a HEX value */
+body{
+    background-color:rgb(184, 207, 255);
+}
+p{
+    border: 3px dotted #ffffff;
+    padding: 0px;
+    margin: 0px;
+}
+.name{
+    background-color: cornflowerblue;
+    color: azure;
+    text-align: center;
+}
+.test{
+    background-color: rgb(155, 186, 244);
+    border-top: none;
 }
