@@ -4,11 +4,13 @@ body{
 p{
     border: 3px dotted #ffffff;
     padding: 0px;
+    border-top: none;
     margin: 0px;
 }
 .name{
     background-color: cornflowerblue;
     color: azure;
+    border: 3px dashed #ffffff;
     text-align: center;
     border-top: none;
     border-left: none;
